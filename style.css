@@ -42,7 +42,8 @@ input{
 	
 }
 #searchBtn{
-	
+	white-space: nowrap;
+  flex-shrink: 0;
 	padding: 8px 12px;
 	border: none;
 	border-radius: 8px;
