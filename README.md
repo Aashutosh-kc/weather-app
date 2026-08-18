@@ -11,7 +11,7 @@ Search any city and get real-time weather conditions instantly.
 
 
 
-![Preview](preview.png)
+<img src="preview.png" alt="preview" width=250 align="center"/>
 
 
 
